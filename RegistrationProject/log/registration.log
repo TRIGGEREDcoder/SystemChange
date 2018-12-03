@@ -1,0 +1,4 @@
+2018-10-18 01:23:15 ERROR RegistrationDAOImpl:69 - ORA-00942: table or view does not exist
+ null 942
+2018-10-18 09:33:43 ERROR RegistrationDAOImpl:45 - ORA-00942: table or view does not exist
+ null 942

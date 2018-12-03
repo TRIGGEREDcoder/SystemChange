@@ -1,0 +1,40 @@
+<!-- <p>
+  productlist works!
+</p> -->
+<div class='table-responsive'>
+  <table class='table' *ngIf='products && products.length'>
+    <thead>
+      <tr>
+        <th>productId</th>
+        <th>productCode</th>
+        <th>productName</th>
+        <th>releaseDate</th>
+        <th>description</th>
+        <th>price</th>
+        <th>starRating</th>
+
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor='let product of products'>
+
+        <td>{{product.productId}}</td>
+        <td>{{product.productCode}}</td>
+        <td>{{product.productName}}</td>
+        <td>{{product.releaseDate}}</td>
+        <td>{{product.description}}</td>
+        <td>{{product.price}}</td>
+        <td>{{product.starRating}}</td>
+    </tbody>
+  </table>
+</div>
+
+products:any[]=[{
+    "productId":1,
+    "productName":"Leaf Rake",
+    "productCode":"GDN-0011",
+    "releaseDate":"March 19,2016",
+    "description":"Leaf rake with 48-inch wooden handle.",
+    "price":19.95,
+    "starRating":3.2
+  },

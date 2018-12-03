@@ -1,0 +1,9 @@
+td th thead tr
+
+Use Spring forms when you need functionality provided by them:
+
+binding to objects
+configurable field formatting
+redisplay of values on errors
+binding of error messages
+For simple forms (such as a simple search box on each page) you usually don't need these features - therefore you can use simple HTML forms for them.

@@ -1,0 +1,14 @@
+Session tracking
+Session map
+Session object
+session management
+pom.xml
+group id and artifact id
+depenedncy
+JDBC as specification
+object relation mapping framework
+
+granularity
+subtyping 
+EJB
+hibernate is an abstraction not a replacement of jdbc.

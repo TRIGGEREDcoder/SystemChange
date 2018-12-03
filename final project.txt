@@ -1,0 +1,21 @@
+in agile only user stories are maintained
+user stories are used as feature files
+in angular, animation api.
+version controll cloud bsaed tool
+CI(continuous integration)
+no jsp,mvc
+only angular and restful
+angular==front end, restful== back end
+UI(css, bootstraps, jquery)
+
+elearnings
+scrum board
+sprint planning
+velocity
+user stories
+scrum master role
+burn down chart
+functionalities to write in user stories
+sticky notes
+red pen 
+design your scrum board

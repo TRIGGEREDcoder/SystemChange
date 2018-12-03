@@ -1,0 +1,25 @@
+npm config set proxy http://puneproxy.igate.com:8080
+npm config set https-proxy http://puneproxy.igate.com:8080
+npm install -g typescript(tsc node)
+npm install -g @angular/cli
+ng
+ng new Sample
+yes/css
+
+ng g i product/PRODUCT(to create interface)
+npm install
+npm start
+create a method returning array of product
+
+
+
+
+
+			ecma 6
+		
+		VbScript	JavaScript
+
+ng g c app/shared/star --flat(it will create an app folder inside app folder)
+so correct way is ng g c shared\star --flat
+
+ng g s services/product --flat
